@@ -133,7 +133,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 If you use this analysis or methodology, please cite:
 ```
 Jemimah, P. (2025). Comprehensive Analysis of Accidental Drug-Related Deaths in Connecticut (2012-2024). 
-GitHub repository: https://github.com/YOUR_USERNAME/drug-deaths-analysis
+GitHub repository: https://github.com/Jem1917/drug-deaths-analysis
 ```
 
 ## 📧 Contact
@@ -144,4 +144,5 @@ For questions, collaboration, or feedback, please reach out via email or open an
 
 **Last Updated**: February 2025  
 **Status**: ✅ Complete
+
 
