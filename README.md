@@ -119,8 +119,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **Praisie Jemimah**
 - Email: akkepogupraisie@gmail.com
-- GitHub: [@YOUR_USERNAME](https://github.com/YOUR_USERNAME)
-- LinkedIn: [Your LinkedIn](https://linkedin.com/in/your-profile)
+- GitHub: Jem1917(https://github.com/Jem1917)
+- LinkedIn: Praisie Jemimah
 
 ## 🙏 Acknowledgments
 
@@ -144,6 +144,7 @@ For questions, collaboration, or feedback, please reach out via email or open an
 
 **Last Updated**: February 2026
 **Status**: ✅ Complete
+
 
 
 
