@@ -113,7 +113,7 @@ This analysis reveals urgent public health needs:
 
 ## 📄 License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License.
 
 ## 👤 Author
 
@@ -144,6 +144,7 @@ For questions, collaboration, or feedback, please reach out via email or open an
 
 **Last Updated**: February 2026
 **Status**: ✅ Complete
+
 
 
 
